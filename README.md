@@ -7,7 +7,7 @@ Junior Frontend Developer
 Hi, my name is Fredy but most of my friends and family call me Daniel, I am currently a junior frontend developer 👨‍💻. Passionate about new technologies and programming languages ​​🤖.
 
 * 🌍  I'm based in Guatemala City
-* 🖥️  See my portfolio at [Here](http://bit.ly/3OuEYH7)
+* 🖥️  See my portfolio at [Here](https://fredyreyes.com/)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on React JS, Angular, Node JS, Nest JS, Javascript, TypeScript, Python etc.
 * ⚡  In my free time I like to do code challenges or I like to design user interfaces
