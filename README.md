@@ -1,10 +1,10 @@
 Hi 👋 My name is Fredy Reyes
 ============================
 
-Junior Frontend Developer
+Full Stack Developer
 -------------------------
 
-Hi, my name is Fredy but most of my friends and family call me Daniel, I am currently a junior frontend developer 👨‍💻. Passionate about new technologies and programming languages ​​🤖.
+Hi, my name is Fredy but most of my friends and family call me Daniel, I am currently a Full Stack developer 👨‍💻. Passionate about new technologies and programming languages ​​🤖.
 
 * 🌍  I'm based in Guatemala City
 * 🖥️  See my portfolio at [Here](https://fredyreyes.com/)
